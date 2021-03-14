@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cucked-sorting/static/css/main.6df9ae46.chunk.css",
+    "main.js": "/cucked-sorting/static/js/main.786ab4b1.chunk.js",
+    "main.js.map": "/cucked-sorting/static/js/main.786ab4b1.chunk.js.map",
+    "runtime-main.js": "/cucked-sorting/static/js/runtime-main.273fa300.js",
+    "runtime-main.js.map": "/cucked-sorting/static/js/runtime-main.273fa300.js.map",
+    "static/js/2.3212d097.chunk.js": "/cucked-sorting/static/js/2.3212d097.chunk.js",
+    "static/js/2.3212d097.chunk.js.map": "/cucked-sorting/static/js/2.3212d097.chunk.js.map",
+    "index.html": "/cucked-sorting/index.html",
+    "static/css/main.6df9ae46.chunk.css.map": "/cucked-sorting/static/css/main.6df9ae46.chunk.css.map",
+    "static/js/2.3212d097.chunk.js.LICENSE.txt": "/cucked-sorting/static/js/2.3212d097.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.273fa300.js",
+    "static/js/2.3212d097.chunk.js",
+    "static/css/main.6df9ae46.chunk.css",
+    "static/js/main.786ab4b1.chunk.js"
+  ]
+}
