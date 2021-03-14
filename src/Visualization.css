@@ -1,0 +1,30 @@
+.individual-bar {
+    width: 10px;
+    background-color: #7AE7C7;
+    border: #75BBA7 1px solid;
+}
+
+.bar-container {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    transform: rotate(180deg);
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+    width: 50%;
+    margin: auto;
+}
+
+.total-app-holder {
+    margin: 50px auto;
+    width: 50%;
+}
+
+.buttons {
+    position: absolute;
+    top: 200px;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    width: 50%;
+}
